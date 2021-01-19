@@ -45,7 +45,7 @@ b.	Click on `File > Settings > Install` then type `script` and install that, thi
 		2.	[1.e+01 1.e+10]  
 		3.	Along with the figure  
 
-	![alt text](Picture1.png)
+	<img src="Picture1.png" alt="Picture1.png" width="300"/>
 
 	f.	If all things were done correctly this should run and utilize the three libraries for this class.
 
