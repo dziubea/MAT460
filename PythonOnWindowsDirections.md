@@ -14,7 +14,7 @@ b.	Click on `File > Settings > Install` then type `script` and install that, thi
 
 4.	Open a new file.     
    a.	Enter the following in the file  
-   >Test script  
+   >Test script
    
 	```python 
 	import numpy as np
