@@ -35,6 +35,7 @@ b.	Click on `File > Settings > Install` then type `script` and install that, thi
 	if __name__ == '__main__':
 	main()
 	```   
+	
 	b.	Remember spacing matters in python  
 	c.	Save the file with `ctrl+s`   
 	d.	Run the file with `ctrl+shift+b`  
