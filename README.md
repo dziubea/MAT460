@@ -2,5 +2,5 @@
 
 Hi there!
 
-You can find a link collection on python, unix/linux, latex, etc. here:
+A link collection on python, unix/linux, latex, etc. can be found here:
 [Computational Boot Camp 2015](http://people.sunyit.edu/~dziubea/cbc15/index.html)

@@ -34,7 +34,7 @@ b.	Click on `File > Settings > Install` then type `script` and install that, thi
 	# Function that python needs to run the main function
 	if __name__ == '__main__':
 	main()
-	```   
+	```
 	
 	b.	Remember spacing matters in python  
 	c.	Save the file with `ctrl+s`   
@@ -46,7 +46,7 @@ b.	Click on `File > Settings > Install` then type `script` and install that, thi
 		2.	[1.e+01 1.e+10]  
 		3.	Along with the figure  
 
-	<img src="Picture1.png" alt="Picture1.png" width="300"/>
+	<img src="Picture1.png" alt="Picture1.png" width="300">
 
 	f.	If all things were done correctly this should run and utilize the three libraries for this class.
 
